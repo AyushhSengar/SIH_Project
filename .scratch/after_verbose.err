@@ -1,0 +1,6 @@
+[investigate] address validated: 0x75c0623bae00749550cf1c1703e7382038b3109a
+[investigate] chain resolved: ethereum
+[investigate] acquiring live blockchain data (native + internal + token streams)
+[investigate] graph ready: 10 nodes, 78 edges [REAL]
+[investigate] running analysis stages
+[investigate] analysis complete in 0.056s

@@ -1,0 +1,6 @@
+{
+  "tests/test_config.py::test_a_malformed_numeric_setting_falls_back_to_its_default": true,
+  "tests/test_reporting_terminal.py::test_the_withheld_risk_subtotal_plus_the_itemised_lines_equal_the_score": true,
+  "tests/test_investigation_runner.py::test_the_wallet_is_normalized_before_it_reaches_the_report": true,
+  "tests/test_investigation_runner.py::test_a_missing_transfers_file_is_not_silently_skipped": true
+}
